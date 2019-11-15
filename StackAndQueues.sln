@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "StackAndQueues\ReverseString.csproj", "{3A2162E9-3C2F-47A3-94BD-B3B99F43034B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSum", "StackSum\StackSum.csproj", "{F11CD3A3-8DAC-471C-833D-7A1B22550D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2162E9-3C2F-47A3-94BD-B3B99F43034B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2162E9-3C2F-47A3-94BD-B3B99F43034B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2162E9-3C2F-47A3-94BD-B3B99F43034B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2162E9-3C2F-47A3-94BD-B3B99F43034B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11CD3A3-8DAC-471C-833D-7A1B22550D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11CD3A3-8DAC-471C-833D-7A1B22550D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11CD3A3-8DAC-471C-833D-7A1B22550D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11CD3A3-8DAC-471C-833D-7A1B22550D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3703FA6A-F12A-4BBA-BF5F-F73C1C76CC28}
+	EndGlobalSection
+EndGlobal
